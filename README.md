@@ -1,7 +1,7 @@
 Nama : Nayla Zalfa Zahiyah
 NIM : 24090017
 
-Link GitHub Repository:
+Link GitHub Repository:https://github.com/naylaa23/uts-nayla-zalfa-zahiyah-24090017
 Link GitHub Pages:
 
 Deskripsi singkat project: 
