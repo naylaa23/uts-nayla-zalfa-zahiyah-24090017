@@ -2,7 +2,7 @@ Nama : Nayla Zalfa Zahiyah
 NIM : 24090017
 
 Link GitHub Repository:https://github.com/naylaa23/uts-nayla-zalfa-zahiyah-24090017
-Link GitHub Pages:
+Link GitHub Pages: https://naylaa23.github.io/uts-nayla-zalfa-zahiyah-24090017/
 
 Deskripsi singkat project: 
 # halaman Login (index html)
