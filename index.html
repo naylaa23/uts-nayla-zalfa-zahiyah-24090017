@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="login">
+
+  <div class="login-container">
+
+    <!-- KIRI: ILUSTRASI -->
+    <div class="login-left">
+      <div class="illustration-box">
+        <div class="rect rect-big"></div>
+        <div class="rect rect-small"></div>
+
+        <div class="person">
+          <div class="head"></div>
+          <div class="body"></div>
+          <div class="leg front"></div>
+          <div class="leg back"></div>
+          <div class="chair"></div>
+
+          <div class="table">
+            <div class="laptop"></div>
+          </div>
+
+          <div class="lamp"></div>
+          <div class="plant"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- GARIS TENGAH -->
+    <div class="divider-vertical"></div>
+
+    <!-- KANAN: FORM LOGIN -->
+    <div class="login-right">
+      <h1 class="title">Welcome Back!</h1>
+
+      <form id="loginForm">
+
+        <label for="email">Email Address</label>
+        <div class="input-wrapper">
+          <span class="input-icon">@</span>
+          <input type="text" id="email" placeholder="Email Address">
+        </div>
+
+        <label for="password">Password</label>
+        <div class="input-wrapper">
+          <span class="input-icon">🔒</span>
+          <input type="password" id="password" placeholder="Password">
+        </div>
+
+        <div class="forgot">
+          <a href="#">Forgot Password?</a>
+        </div>
+
+        <button type="submit" class="btn-primary full-width">Login</button>
+
+        <div class="or-line"><span>Or</span></div>
+
+        <div class="social-row">
+          <button type="button" class="btn-outline">
+            <span class="social-icon">G</span> Google
+          </button>
+          <button type="button" class="btn-outline">
+            <span class="social-icon">f</span> Facebook
+          </button>
+        </div>
+
+        <p class="small-text">
+          Don’t have an account? <a href="#">Sign Up</a>
+        </p>
+
+      </form>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
